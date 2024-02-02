@@ -11,10 +11,7 @@ Projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
--> HTML e CSS
--> JavaScript
--> Git e Github
--> Figma
+HTML e CSS - JavaScript - Git e Github - Figma
 
 ## 💻 Projeto
 
